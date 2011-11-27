@@ -5,9 +5,10 @@ date: 2011-11-26 17:50
 comments: true
 categories: ruby recipe
 ---
-Al probar proyectos rails nos encontraremos con el problema de las múltiples
-dependencias de otras librerías que tienen cada uno de ellos, y el problema que
-eso supone para mantener nuestro sistema al día.
+Al probar proyectos *rails* nos encontramos con el problema de las múltiples
+dependencias de otras librerías que tienen cada uno de ellos, y la dificultad que
+eso conlleva para mantener nuestro sistema operativo al día, por no decir
+nuestro alojamiento.
 
 Lo mejor para estos casos es utilizar RVM, que nos instalará un entorno ruby
 propio para nuestros proyectos, independizándonos así de los paquetes ya
