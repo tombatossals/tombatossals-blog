@@ -11,6 +11,7 @@ Universitat per a majors
 
 ### 2011
 [Informática e internet, nivel medio, grupo A](../../2011-iim-a/index.html).
+
 [Informática e internet, nivel medio, grupo D](../../2011-iim-d/index.html).
 
 Formación del PAS
@@ -22,7 +23,9 @@ Postgrado
 ---------
 ### Xarxes obertes sense fils (2011)
 [Servidores GNU/Linux. Proxies en guifi.net](../../guifi_linux/index.html).
+
 [Servidores GNU/Linux. Servidores de gráficas](../../guifi_linux/graph.html).
+
 [Servidores GNU/Linux. Servidores DNS](../../guifi_linux/dns.html).
 
 Otros
