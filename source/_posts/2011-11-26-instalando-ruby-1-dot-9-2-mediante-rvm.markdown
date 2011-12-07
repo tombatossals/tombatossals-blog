@@ -26,8 +26,9 @@ RVM function' >> ~/.bash_profile
 source ~/.bash_profile
 
 # Install OpenSSL&ZLIB
-rvm pkg install openssl
 rvm pkg install zlib
+export C_INCLUDE_PATH=$HOME/.rvm/usr/include
+rvm pkg install openssl
 
 # Install Ruby
 rvm install 1.9.2 --with-zlib-dir=$rvm_path/usr
