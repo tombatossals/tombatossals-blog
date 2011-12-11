@@ -2,12 +2,12 @@
 layout: post
 title: "Aplicación Rails en servidor web Nginx"
 date: 2011-12-06 18:02
-comments: false
+comments: true
 categories: rails nginx
 ---
 Una aplicación rails funciona con su propio servidor web, normalmente en el
 puerto 3000 del sistema. Si queremos servir la aplicación en el puerto 80 estándar
-a través de <a href="http://nginx.org">Nginx</a>, deberemos configurar este servidor web para que
+a través de [Nginx](http://nginx.org), deberemos configurar este servidor web para que
 actúe de proxy hacia la aplicación rails.
 
 Esta es la receta para el archivo nginx.conf:
