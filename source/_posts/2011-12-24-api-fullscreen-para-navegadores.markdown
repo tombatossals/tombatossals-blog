@@ -48,6 +48,9 @@ necesitaremos llamar a estas funciones de manera diferente según el navegador
 Podéis ver mejor todo esto en la demo siguiente:
 [http://dev.micronautas.com/demos/fullscreen/fullscreen.html](http://dev.micronautas.com/demos/fullscreen/fullscreen.html)
 
+En la versión actual de Firefox (v9.0.1) tendréis que habilitar la variable
+**full-screen-api.enabled** entrando en el **about:config** para poder probarlo.
+
 Enlaces de interes:
 
 * [Mozilla: Using full-screen mode](https://developer.mozilla.org/en/DOM/Using_full-screen_mode)

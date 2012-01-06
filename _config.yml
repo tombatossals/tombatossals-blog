@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://www3.uji.es/~vrubert/blog
-title: /pub
+title: Slashpub
 subtitle: vrubert's blog
 author: David Rubert
 simple_search: http://google.com/search
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: publicoluegoexisto
+disqus_short_name: slashpub
 disqus_show_comment_count: false
 
 # Google Analytics
