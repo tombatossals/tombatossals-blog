@@ -14,6 +14,9 @@ Universitat per a majors
 
 [Informática e internet, nivel medio, grupo D](../../2011-iim-d/index.html).
 
+### 2012
+[Informática e internet, nivel medio, grupo A/D](../../unimajors/2011-iim/index.html).
+
 Formación del PAS
 -----------------
 ### 2011
