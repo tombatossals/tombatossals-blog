@@ -17,6 +17,10 @@ Universitat per a majors
 ### 2012
 [Informática e internet, nivel medio, grupo A/D](../../unimajors/2011-iim/index.html).
 
+[Informática e internet, nivel básico, grupo B](../../unimajors/2012-iii/index.html).
+
+[Windows 7](../../unimajors/windows7/index.html).
+
 Formación del PAS
 -----------------
 ### 2011
